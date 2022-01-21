@@ -1,4 +1,6 @@
-Olá! Sinta-se livre para ver meus repos, fazer pull requests e comentários!
+Olá! Sou o Willian, técnico em agrimensura, com interesse especial na cartografia digital, geoinformática e programação.
+
+Sinta-se livre para ver meus repos, fazer pull requests e comentários!
 
 Confira também [meu portifólio](https://willdsc.pythonanywhere.com). Todos os meus contatos estão lá.
 <!--
