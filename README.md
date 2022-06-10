@@ -2,7 +2,7 @@ Olá! Sou o Willian, técnico em agrimensura, com interesse especial na cartogra
 
 Sinta-se livre para ver meus repos, fazer pull requests e comentários!
 
-Confira também [meu portifólio](https://willdsc.pythonanywhere.com). Todos os meus contatos estão lá.
+Confira também [meu portfólio](https://willdsc.pythonanywhere.com). Todos os meus contatos estão lá.
 <!--
 [![PostgreSQL_Python_QGIS_R](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=PostgreSQL_Python_QGIS_R)](https://pimp-my-readme.webapp.io)
 
