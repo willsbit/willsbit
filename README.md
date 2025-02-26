@@ -1,5 +1,4 @@
-Olá! Sou o Willian, técnico em agrimensura, com interesse especial na cartografia digital, geoinformática e programação.
-Estudante de engenharia acústica e desenvolvedor na ST-One.
+Olá! Sou o Willian, técnico em agrimensura, estudante de engenharia acústica e desenvolvedor na ST-One.
 
 Sinta-se livre para ver meus repos, fazer pull requests e comentários!
 
