@@ -1,4 +1,4 @@
-Olá! Sou o Willian, técnico em agrimensura, estudante de engenharia acústica e desenvolvedor na ST-One.
+Olá! Sou o Willian, técnico em agrimensura, estudante de engenharia acústica e parte do time de P&D na ST-One.
 
 Sinta-se livre para ver meus repos, fazer pull requests e comentários!
 
